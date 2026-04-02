@@ -9,7 +9,7 @@
 		<properties>
 			<!-- Database property -->
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/manytooneDB?createDatabaseIfNotExist=true" />
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/manytomanybiDB?createDatabaseIfNotExist=true" />
 			<property name="javax.persistence.jdbc.user" value="vinay" />
 			<property name="javax.persistence.jdbc.password" value="password" />
 
